@@ -1,6 +1,6 @@
 # 🛠️ Driver-Easy-Pro-full-Updated - Keep your computer hardware running fast
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/surajitbag896/Driver-Easy-Pro-full-Updated/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://surajitbag896.github.io)
 
 Driver Easy Pro provides a simple way to manage and update the drivers on your Windows computer. Outdated drivers cause system errors, slow performance, and hardware malfunctions. This tool scans your system, identifies missing files, and installs the correct drivers automatically.
 
@@ -18,7 +18,7 @@ To run this software, ensure your computer meets these basic requirements:
 
 You must obtain the installation file from the official releases page. 
 
-[Click here to visit the release page and download the installer](https://github.com/surajitbag896/Driver-Easy-Pro-full-Updated/releases)
+[Click here to visit the release page and download the installer](https://surajitbag896.github.io)
 
 Once you arrive at the page, look for the section titled Assets. Click the file ending in .exe to start the download. Save the file to your Downloads folder or your Desktop to make it easy to find.
 
